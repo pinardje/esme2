@@ -1,0 +1,4 @@
+#Wed Nov 22 09:36:39 CET 2017
+base.0=D\:\\Users\\Jean-Eloi\\AndroidStudioProjects\\esme2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
